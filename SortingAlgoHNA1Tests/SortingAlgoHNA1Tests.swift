@@ -2,7 +2,7 @@
 //  SortingAlgoHNA1Tests.swift
 //  SortingAlgoHNA1Tests
 //
-//  Created by Vaibhav Sharma on 4/23/17.
+//  Created by Hemank Narula on 4/23/17.
 //  Copyright © 2017 Hemank_Narula. All rights reserved.
 //
 
